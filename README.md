@@ -53,7 +53,6 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MuhaFAH&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=vision-friendly-dark&hide_border=true&order=2&custom_title=%D0%AF%D0%9F%D1%8B%20%7C%20Languages" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=MuhaFAH&locale=en&mode=daily&theme=vision-friendly-dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
